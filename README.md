@@ -142,8 +142,8 @@ def pez_cartilaginoso(c):
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/usuario/sistema-experto-taxonomia.git
-cd sistema-experto-taxonomia
+git clone https://github.com/alejodiazzz/Sistema-Experto-Taxon-mico.git
+cd Sistema-Experto-Taxon-mico
 
 # 2. Crear y activar entorno virtual (recomendado)
 python -m venv venv
